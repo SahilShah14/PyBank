@@ -1,2 +1,4 @@
 .venv/
 .myvenv/
+.idea
+_pycache_
